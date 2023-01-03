@@ -2,7 +2,7 @@
   "name": "apptestlibrary",
   "version": "1.0.0",
   "description": "",
-  "main": "./node_modules/@stackovernani/charactercrud-library/src/index.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@stackovernani/charactercrud-library": "^1.0.2"
+    "@stackovernani/charactercrud-library": "^1.1.0"
   }
 }
