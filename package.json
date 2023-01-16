@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@stackovernani/charactercrud-library": "^1.1.0"
+    "@stackovernani/charactercrud-library": "^2.2.0"
   }
 }

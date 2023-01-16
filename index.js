@@ -1,3 +1,3 @@
-const sh = require("@stackovernani/charactercrud-library");
+const sM = require("@stackovernani/charactercrud-library");
 
-sh.screenManager("mainScreen");
+sM.screenManager("mainScreen", { getHistoric: true });

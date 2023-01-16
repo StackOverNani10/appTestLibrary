@@ -1,2 +1,5 @@
 # Ignora las carpeta
 node_modules
+
+# Ignora archivo 
+notes.txt

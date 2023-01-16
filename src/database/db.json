@@ -23,10 +23,17 @@
     },
     {
       "id": "a3ff9aab-91b3-4f9f-84ad-373050af2ccf",
-      "name": "Fertnando",
+      "name": "Fernan",
       "surname": "Diaz",
       "points": "76",
       "skill": "Super Salto"
+    },
+    {
+      "id": "1",
+      "name": "Alba ",
+      "surname": "La mejol",
+      "points": "100",
+      "skill": "inteligencia"
     }
   ]
 }
